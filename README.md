@@ -22,8 +22,7 @@
 
 ## Get in Touch
 
-- 📧 **Email**: [Your Email]
-- 🌐 **LinkedIn**: [Your LinkedIn Profile URL]
+- 📧 **Email**: [lakkaraju.saisriharsha10@gmail.com]
 - 🌟 **GitHub**: Follow me to stay updated with my latest projects and contributions.
 
 Thanks for visiting my profile! If you have any opportunities or collaborations in mind, feel free to reach out!
